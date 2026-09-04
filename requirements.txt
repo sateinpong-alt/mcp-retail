@@ -1,0 +1,2 @@
+# แอปจริงอยู่ใน mcp/ ไฟล์นี้มีไว้ให้ Railway/Railpack ตรวจเจอว่าเป็นโปรเจกต์ Python
+-r mcp/requirements.txt

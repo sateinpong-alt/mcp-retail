@@ -1,0 +1,16 @@
+{
+  "name": "retail-sop-toolkit",
+  "version": "1.0.0",
+  "description": "SOP ร้านค้าปลีก ฝั่งจัดซื้อและหน้าร้าน — skill สำหรับงานประจำวัน พร้อม MCP server ที่เสิร์ฟตัว SOP เป็น tool",
+  "author": { "name": "" },
+  "skills": [
+    "./skills/retail-purchasing",
+    "./skills/retail-storefront"
+  ],
+  "mcpServers": {
+    "retail-sop": {
+      "type": "http",
+      "url": "https://REPLACE-ME.up.railway.app/mcp"
+    }
+  }
+}
